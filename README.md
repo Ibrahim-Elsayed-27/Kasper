@@ -4,7 +4,7 @@
 A clean and responsive **HTML & CSS** template designed for simple web pages. This template features a structured layout, modern styling, and a user-friendly interface, making it a great starting point for personal or small business websites.  
 
 ## Live Demo  
-🔗 [View the live site](https://ibrahim-elsayed-27.github.io/FirstTemplate/)  
+🔗 [View the live site](https://ibrahim-elsayed-27.github.io/Kasper/)  
 
 ## Features  
 - **Fully responsive design** – adapts to different screen sizes  
